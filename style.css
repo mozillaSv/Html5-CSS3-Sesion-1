@@ -1,0 +1,58 @@
+nav{
+      border:1px solid #000;
+      border-width:1px 0;
+    font-family: monospace;
+    text-align: center;
+    font-size: 22px;
+    color:#4BB495;
+
+
+}
+.centrado{
+text-align:center;
+text-shadow:6%;
+color:grey;
+
+}
+.cls{
+width: 150px;
+height: 200px;
+position:center;
+display: block;
+    margin-left: auto;
+    margin-right: auto
+
+}
+h1{
+font-family:sans-serif;
+
+}
+
+.box {
+    overflow: hidden;
+}
+
+.content {
+    font-size: 15px;
+    line-height: 20px;
+    padding: 0 20px;
+    text-align: justify;
+}
+
+.left {
+    float: left;
+    width: 50%;
+}
+
+.left .content {
+    border-right: 5px solid #4BB495  ;
+}
+
+.right {
+    float: right;
+    width: 50%;
+}
+footer{
+  background-color: #000;
+  color:#fff;
+}
